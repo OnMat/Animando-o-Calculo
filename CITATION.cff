@@ -18,6 +18,11 @@ authors:
     affiliation: "Universidade Federal do Cariri"
     orcid: "https://orcid.org/0000-0002-6302-9324"
 version: "v1.0.0"
+doi: "10.5281/zenodo.24592994"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24592994"
+    description: "Registro da versão v1.0.0 no Zenodo"
 date-released: "2026-11-27"
 license: CC-BY-4.0
 url: "https://onmat.github.io/Animando-o-Calculo/"

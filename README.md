@@ -1,5 +1,7 @@
 # Animando o Cálculo com o Manim
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24592994.svg)](https://doi.org/10.5281/zenodo.24592994)
+
 Minicurso de 6 horas sobre o uso do [Manim](https://www.manim.community/) (*Mathematical Animation Engine*), com Python, para criar animações matemáticas que ajudem a compreender e a ensinar conceitos de Cálculo.
 
 Oferecido na **III SEPEC** (Semana de Ensino, Pesquisa, Extensão e Cultura) da Universidade Federal do Cariri (UFCA), Campus Juazeiro do Norte, em 26 e 27 de novembro de 2026, por **Wilia Alberto** e **Vicente Sobrinho**.
@@ -53,7 +55,11 @@ A página é publicada pelo GitHub Actions; em *Settings → Pages*, a fonte dev
 - **Wilia Alberto de Sousa** ([ORCID 0009-0008-3250-0217](https://orcid.org/0009-0008-3250-0217)), EREM Professor Manoel Joaquim Leite
 - **Vicente Helano Feitosa Batista Sobrinho** ([ORCID 0000-0002-6302-9324](https://orcid.org/0000-0002-6302-9324)), Universidade Federal do Cariri
 
-Para citar este material, use o botão *Cite this repository* do GitHub (gerado a partir de [`CITATION.cff`](CITATION.cff)).
+### Como citar
+
+> Sousa, W. A. de; Sobrinho, V. H. F. B. *Animando o Cálculo com o Manim* (v1.0.0). Zenodo, 2026. DOI: [10.5281/zenodo.24592994](https://doi.org/10.5281/zenodo.24592994).
+
+Também é possível usar o botão *Cite this repository* do GitHub (gerado a partir de [`CITATION.cff`](CITATION.cff)).
 
 ## Licença
 
