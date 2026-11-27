@@ -1,0 +1,44 @@
+{
+  "upload_type": "lesson",
+  "title": "Animando o Cálculo com o Manim",
+  "description": "<p>Minicurso de 6 horas sobre o uso do Manim (<em>Mathematical Animation Engine</em>), com Python, para criar animações matemáticas que ajudem a compreender e a ensinar conceitos de Cálculo: limites, derivadas e integrais.</p><p>O material é composto por dois cadernos Jupyter, preparados para o Google Colab: o Dia 1 trata dos fundamentos (primeira cena, objetos e animações) e o Dia 2 de gráficos, valores dinâmicos (<code>ValueTracker</code>, <code>always_redraw</code>) e de uma oficina em que os participantes animam a resolução de uma questão de Cálculo. Todos os exemplos são comentados linha a linha e acompanhados de exercícios.</p><p>Oferecido na III SEPEC (Semana de Ensino, Pesquisa, Extensão e Cultura) da Universidade Federal do Cariri (UFCA), Campus Juazeiro do Norte, em 26 e 27 de novembro de 2026.</p><p>Página do minicurso: <a href=\"https://onmat.github.io/Animando-o-Calculo/\">https://onmat.github.io/Animando-o-Calculo/</a></p>",
+  "creators": [
+    {
+      "name": "Sousa, Wilia Alberto de",
+      "affiliation": "EREM Professor Manoel Joaquim Leite",
+      "orcid": "0009-0008-3250-0217"
+    },
+    {
+      "name": "Sobrinho, Vicente Helano Feitosa Batista",
+      "affiliation": "Universidade Federal do Cariri",
+      "orcid": "0000-0002-6302-9324"
+    }
+  ],
+  "keywords": [
+    "Manim",
+    "Python",
+    "Cálculo",
+    "animação matemática",
+    "ensino de matemática",
+    "Jupyter",
+    "Google Colab",
+    "minicurso"
+  ],
+  "license": "cc-by-4.0",
+  "language": "por",
+  "access_right": "open",
+  "version": "v1.0.0",
+  "notes": "Material do minicurso apresentado na III SEPEC, UFCA, em 26 e 27 de novembro de 2026.",
+  "related_identifiers": [
+    {
+      "identifier": "https://onmat.github.io/Animando-o-Calculo/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "https://github.com/OnMat/Animando-o-Calculo",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}

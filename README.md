@@ -48,6 +48,13 @@ assets/videos/              animações exibidas na página, geradas pelos próp
 
 A página é publicada pelo GitHub Actions; em *Settings → Pages*, a fonte deve ser **GitHub Actions**.
 
+## Autores
+
+- **Wilia Alberto de Sousa** ([ORCID 0009-0008-3250-0217](https://orcid.org/0009-0008-3250-0217)), EREM Professor Manoel Joaquim Leite
+- **Vicente Helano Feitosa Batista Sobrinho** ([ORCID 0000-0002-6302-9324](https://orcid.org/0000-0002-6302-9324)), Universidade Federal do Cariri
+
+Para citar este material, use o botão *Cite this repository* do GitHub (gerado a partir de [`CITATION.cff`](CITATION.cff)).
+
 ## Licença
 
 Material sob a licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br). Veja [`LICENSE`](LICENSE).

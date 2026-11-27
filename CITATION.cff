@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Se usar este material, cite-o como abaixo."
+type: dataset
+title: "Animando o Cálculo com o Manim"
+abstract: >-
+  Minicurso de 6 horas sobre o uso do Manim, com Python, para criar
+  animações matemáticas que ajudem a compreender e a ensinar conceitos de
+  Cálculo. Dois cadernos Jupyter, preparados para o Google Colab, oferecidos
+  na III SEPEC da Universidade Federal do Cariri (UFCA), em 26 e 27 de
+  novembro de 2026.
+authors:
+  - family-names: "Sousa"
+    given-names: "Wilia Alberto de"
+    affiliation: "EREM Professor Manoel Joaquim Leite"
+    orcid: "https://orcid.org/0009-0008-3250-0217"
+  - family-names: "Sobrinho"
+    given-names: "Vicente Helano Feitosa Batista"
+    affiliation: "Universidade Federal do Cariri"
+    orcid: "https://orcid.org/0000-0002-6302-9324"
+version: "v1.0.0"
+date-released: "2026-11-27"
+license: CC-BY-4.0
+url: "https://onmat.github.io/Animando-o-Calculo/"
+repository-code: "https://github.com/OnMat/Animando-o-Calculo"
+keywords:
+  - Manim
+  - Python
+  - Cálculo
+  - animação matemática
+  - ensino de matemática
+  - Jupyter
